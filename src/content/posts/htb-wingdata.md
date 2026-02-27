@@ -2,7 +2,7 @@
 title: HTB-WingData WriteUp
 published: 2026-02-27
 description: HackTheBox WingData 通关记录。
-image: '""'
+image: 'https://imgur.41an.com/piclist/2026-02/htb-wingdata-c2c2115daabe5fd1ae35778985af8d73.png'
 tags:
   - Penetration
   - cap/priv
